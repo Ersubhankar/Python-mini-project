@@ -49,7 +49,8 @@ TRACKED_EXTENSIONS = {
     # Add custom categories here
 }
 ```
+## 👤 Author
+* Name: Subhankar Panda
+* GitHub Profile: https://github.com/Ersubhankar
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
